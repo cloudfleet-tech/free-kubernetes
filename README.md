@@ -1,6 +1,10 @@
 # Free Kubernetes
 List of free Trials/Credits for Managed Kubernetes Services
 
+- **Cloudfleet Kubernetes Engine (CFKE)**
+  - Description: Managed Kubernetes clusters up to 24 vCPU's are free for unlimited time.
+  - Requirements: A GCP, AWS, Hetzner or a Linux virtual machine (cloud or on-premises) is needed as a compute node.
+  - Link: [https://cloudfleet.ai](https://cloudfleet.ai)
 - **Google Cloud Platform (GKE)**
   - Description: $300 credit which can be used for a 3 month period from the account creation. There is no restriction on the resources and the number of nodes for creating a cluster.
   - Extras: you can add Istio and Try Cloud Run (Knative)
